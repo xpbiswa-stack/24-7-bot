@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Biswa_XP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "BiswaXP.aternos.me",
+    "port": 48401,
     "version": "1.20.1",
     "try-creative": false
   },
